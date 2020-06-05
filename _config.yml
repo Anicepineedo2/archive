@@ -108,4 +108,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-merlot
